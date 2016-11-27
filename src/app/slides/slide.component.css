@@ -1,0 +1,15 @@
+.slide {
+  height: 300px;
+  width: 300px;
+  background-color: #ecf0f1;
+  box-shadow:  1px 1px 1px 1px #ccc;
+}
+
+.slide-title {
+  font-size: 2em;
+  padding: 20px;
+}
+
+.slide-content {
+  padding: 0 20px 20px 20px;
+}

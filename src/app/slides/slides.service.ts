@@ -10,11 +10,11 @@ export class SlidesService {
       [
         {
           title: 'sample',
-          content: 'body'
+          content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aut consequatur corporis cumque dolore esse exercitationem fuga illum incidunt laboriosam laudantium, quisquam ratione unde veniam, voluptatibus. Inventore perspiciatis quidem voluptatibus!'
         },
         {
           title: 'second',
-          content: 'random'
+          content: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam dolores omnis tempora! Aliquid animi atque, beatae, cupiditate doloribus eaque eius explicabo inventore magnam minus nemo nesciunt nobis rem, soluta tempore?'
         }
       ]
     ]);
