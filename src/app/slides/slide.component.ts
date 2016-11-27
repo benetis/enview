@@ -7,5 +7,10 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
 export class SlideComponent {
   @Input() title: string = '';
   @Input() content: string = '';
+  @Output() clicked: EventEmitter<boolean> = new EventEmitter<boolean>();
+
+  public insideButtonClicked() {
+    this.clicked.emit(true);
+  }
 
 }

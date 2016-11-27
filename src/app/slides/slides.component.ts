@@ -26,4 +26,8 @@ export class SlidesComponent {
     }
   }
 
+  public slideInsideClicked(data) {
+    alert(data);
+  }
+
 }
