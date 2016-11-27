@@ -1,3 +1,3 @@
-describe('slides component', () => {
-
-});
+// describe('slides component', () => {
+//
+// });
